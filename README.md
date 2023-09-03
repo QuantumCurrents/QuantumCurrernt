@@ -1,2 +1,2 @@
 # QuantumCurrernt
-I am a noob
+Hello world!
